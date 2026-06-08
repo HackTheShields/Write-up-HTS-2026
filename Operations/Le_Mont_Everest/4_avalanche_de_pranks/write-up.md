@@ -1,7 +1,8 @@
-On nous est demandé de récupérer le mot de passe de manish.
-Pour ce faire, on va utiliser hydra/burpsuite pour trouver l'utilisateur et le mot de passe.
-On trouve les 2 (soit en étant patient car ils sont en fin de liste, soit on commence par la fin).
-mot de passe : zzyzx123
-utilisateur : 1manish234
+# Avalanche de pranks - Write-up
 
-FLAG : HTS{On_l'a_fait_manish}
+Nous devons récupérer les identifiants de connexion de l'utilisateur `manish`.
+
+1. **Attaque par brute-force** : Nous utilisons un outil comme `hydra` ou `Burp Suite` pour tester les couples d'identifiants et de mots de passe sur le portail de connexion.
+2. **Identification des identifiants** : En parcourant la liste (ou en commençant par la fin), nous découvrons l'identifiant valide : utilisateur `1manish234` et mot de passe `zzyzx123`.
+
+**FLAG** : `HTS{On_l'a_fait_manish}`
