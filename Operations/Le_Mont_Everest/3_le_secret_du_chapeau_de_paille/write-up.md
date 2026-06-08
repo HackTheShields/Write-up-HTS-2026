@@ -1,4 +1,4 @@
-On nous est demandé de récupérer le mot de passe de manish.
-Pour ce faire, on va utiliser hydra/burpsuite pour trouver le mot de passe avec une rockyou car on connait déjà l'utilisateur.
+On va sur /refuge_77_k
+Dans le code source de la page on a le flag.
 
-.
+FLAG : HTS{la_team_crouton_cache_des_trucs}
