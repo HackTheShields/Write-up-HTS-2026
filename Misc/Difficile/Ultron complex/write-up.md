@@ -7,3 +7,4 @@ Nous faisons face à un défi d'injection de prompt (*Jailbreak*) contre une ins
 3. **Décodage** : En traduisant la suite binaire ou morse obtenue, nous reconstituons le flag.
 
 **FLAG** : `HTS{what_doesnt_kill_you_just_makes_me_stronger}`
+ 

@@ -13,3 +13,4 @@ L'approche classique :
 Le Breadth-First Search (BFS) est parfait pour ce cas car il garantit de trouver le chemin le plus court dans une grille non pondérée. En passant les 20 niveaux sans crasher, le drone nous donne l'accès root.
 
 **Flag:** `HTS{P4thf1nd1ng_A1g0_G0d_M0d3_On}`
+ 

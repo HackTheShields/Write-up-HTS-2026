@@ -15,3 +15,4 @@ L'écran s'illumine. On peut désormais observer le monolithe 3D et lire le flag
 *(Une autre solution consiste à modifier le `material` de l'objet pour utiliser un `MeshBasicMaterial` insensible à la lumière).*
 
 **Flag:** `HTS{Sh4d0ws_C4nt_b3_Scr1pt3d}`
+ 

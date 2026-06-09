@@ -16,3 +16,4 @@ curl -H "X-Orion-Clearance: command" http://<ip>:<port>
 Le serveur accepte l'élévation de privilèges et nous renvoie la page secrète du "Mission Feed", sur laquelle le flag est affiché en clair.
 
 **Flag:** `HTS{H7tp_H3ad3rs_C0ntr0l_Tht_Dr0n3s}`
+ 

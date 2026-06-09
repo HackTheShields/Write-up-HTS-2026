@@ -7,3 +7,4 @@ Nous devons élever nos privilèges sur l'application web pour obtenir une habil
 3. **Usurpation de rôle (Forgery)** : En utilisant ce secret, nous forgeons un nouveau JWT contenant la charge utile `{"user": "chell", "role": "admin"}`. En remplaçant notre cookie par ce nouveau token signé, nous accédons au tableau de bord administrateur et récupérons le flag.
 
 **FLAG** : `HTS{W34k_S3cr3ts_Br34k_JWT}`
+ 

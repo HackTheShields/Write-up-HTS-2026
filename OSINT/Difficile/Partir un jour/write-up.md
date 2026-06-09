@@ -13,3 +13,4 @@ Nous analysons une photographie montrant un avion en phase d'atterrissage.
    - Sur Google Maps, nous recherchons la zone d'approche de l'aéroport pour repérer le bâtiment rouge visible sur l'image et identifions la route `R108`.
 
 **FLAG** : `HTS{amsterdam:dublin:EIN605P:R108}`
+ 

@@ -7,3 +7,4 @@ Nous analysons le fichier binaire `sentry_firmware.elf` extrait à l'étape pré
 3. **Reconstitution de la clé** : Nous suivons l'arbre des opérations XOR et des constantes définies dans le code décompilé pour reconstituer manuellement (ou à l'aide d'un script Python) la chaîne décryptée.
 
 **FLAG** : `HTS{APERTURE_GLADOS_X99}`
+ 

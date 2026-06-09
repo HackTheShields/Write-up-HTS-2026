@@ -18,3 +18,4 @@ Si le timing est bon :
 On peut automatiser cette attaque avec un petit script en Python (utilisant la librairie `requests` et le module `threading`) pour lancer plusieurs requêtes simultanées. Au bout de quelques tentatives, le serveur retournera le contenu du flag !
 
 **Flag:** `HTS{W0N_TH3_R4C3}`
+ 

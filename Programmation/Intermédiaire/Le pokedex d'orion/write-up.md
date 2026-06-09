@@ -7,3 +7,4 @@ Nous devons maximiser la force de combat (CP) cumulée de notre équipe de Poké
 3. **Résolution & Soumission** : Nous implémentons un algorithme de programmation dynamique pour calculer la valeur CP optimale en temps linéaire, puis soumettons le résultat à `/api/solve/<TOKEN>`. Le flag s'affiche alors sur l'interface web.
 
 **FLAG** : `HTS{la_team_rocket_s_envole_vers_d_autres_cieux}`
+ 

@@ -6,3 +6,4 @@ Nous accédons à l'environnement Docker du challenge.
 2. **Scan de ports** : Nous l'utilisons pour scanner les ports réseau ouverts afin d'identifier les services actifs et d'obtenir le flag.
 
 **FLAG** : `HTS{michou_le_refugie}`
+ 

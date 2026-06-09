@@ -13,3 +13,4 @@ Le script doit :
 Une fois les 50 rounds passés avec succès, le serveur nous affiche le flag.
 
 **Flag:** `HTS{Scr1pt1ng_Is_F4st3r_Th4n_Hum4ns}`
+ 

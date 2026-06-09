@@ -16,3 +16,4 @@ Le fichier s'affiche en clair dans le navigateur et on trouve le flag en comment
 ```
 
 **Flag:** `HTS{LUC1D_S33s_Ev3ryth1ng_Ev3n_Y0ur_R00t_P4th}`
+ 

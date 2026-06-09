@@ -12,3 +12,4 @@ snow -C report.txt
 L'option `-C` demande à l'outil de décompresser la donnée cachée extraite. Le fichier n'ayant pas été protégé par un mot de passe, l'outil affichera directement le message dissimulé dans le vide du texte.
 
 **Flag:** `HTS{1NV1S1BL3_1NK}`
+ 

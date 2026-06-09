@@ -12,4 +12,4 @@ Nous disposons d'une vidéo, d'une image et d'une archive ZIP protégée.
 3. **Méthode alternative (NBT)** :
    - Nous pouvons également utiliser un éditeur de fichiers NBT (tel que `NBTExplorer`) pour inspecter directement les données du monde et extraire le texte du panneau (contenant le flag) sans avoir à explorer le jeu.
 
-**FLAG** : `HTS{Herobrine_is_real}`
+**FLAG** : `HTS{Herobrine_is_real}` 

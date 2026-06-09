@@ -8,3 +8,4 @@ Nous devons inverser une chaîne de caractères lue caractère par caractère su
 3. **Validation** : Nous transmettons ce script via une requête `POST` sur l'endpoint `/api/submit` pour obtenir le flag.
 
 **FLAG** : `HTS{des_pommes_pour_nourrir_mon_automate}`
+ 

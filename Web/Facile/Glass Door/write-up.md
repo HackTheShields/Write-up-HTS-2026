@@ -20,3 +20,4 @@ const secretPart3 = "S1d3_F41l}";
 Il suffit d'entrer `8452` dans le formulaire pour afficher le flag, ou simplement de le reconstituer depuis le code source.
 
 **Flag:** `HTS{J4v4Scrip7_Cl13n7_S1d3_F41l}`
+ 

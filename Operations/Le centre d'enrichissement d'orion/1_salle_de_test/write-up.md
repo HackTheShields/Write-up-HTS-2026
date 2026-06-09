@@ -7,3 +7,4 @@ Nous avons cherché à accéder au serveur de développement du centre.
 3. **Modification d'hôte** : Nous re-saisissons la requête en modifiant le header `Host` (ou en ajoutant l'entrée dans `/etc/hosts`) pour pointer vers `dev-sentry-alpha.orion.int`. La page d'accueil de ce nouvel hôte virtuel nous donne le flag.
 
 **FLAG** : `HTS{V1rtual_H0sts_Ar3_N0t_S3cur3}`
+ 

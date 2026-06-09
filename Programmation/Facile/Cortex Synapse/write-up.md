@@ -13,3 +13,4 @@ Le but du script est de :
 En validant les 100 questions consécutives sans dépasser le délai de 3 secondes, Cortex nous valide l'accès et affiche le flag.
 
 **Flag:** `HTS{ScR1pT1nG_M4sT3R_C0rT3X_0v3rL04D}`
+ 

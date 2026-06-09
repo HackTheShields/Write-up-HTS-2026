@@ -10,3 +10,4 @@ Nous sommes connectés en SSH en tant que l'utilisateur `Manish`.
    ```
 
 **FLAG** : `HTS{inoxtag_le_boss}`
+ 

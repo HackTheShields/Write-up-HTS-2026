@@ -7,4 +7,4 @@ Nous débutons nos investigations à partir de l'adresse de messagerie `anna.dur
 3. **Extraction des métadonnées** : L'analyse des métadonnées de l'image révèle un bloc de données encodé en Base64 correspondant à une sauvegarde. Son décodage nous fournit un lien Pastebin.
 4. **Consultation des archives** : Le lien Pastebin étant expiré ou inactif, nous interrogeons la *Wayback Machine* (Internet Archive) pour consulter la copie sauvegardée en février 2026 afin de lire le flag.
 
-**FLAG** : `HTS{G0n3_But_N0t_F0rg0tt3n_4rch1v3s}`
+**FLAG** : `HTS{G0n3_But_N0t_F0rg0tt3n_4rch1v3s}` 

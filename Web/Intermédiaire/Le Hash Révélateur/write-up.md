@@ -22,3 +22,4 @@ git show <le_hash>
 La commande affiche le patch (les lignes ajoutées/retirées) du commit supprimé, révélant le flag en clair.
 
 **Flag:** `HTS{G1T_R3V34LS_TH3_P4ST}`
+ 

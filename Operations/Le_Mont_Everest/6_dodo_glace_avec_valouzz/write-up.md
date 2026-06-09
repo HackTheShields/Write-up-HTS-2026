@@ -6,3 +6,4 @@ Nous exploitons l'accès obtenu lors de l'étape précédente.
 2. **Lecture du flag** : Nous y découvrons un fichier de sauvegarde contenant le hash et le flag, puis lisons son contenu via l'injection de commande.
 
 **FLAG** : `HTS{esprit_kaizen}`
+ 

@@ -11,3 +11,4 @@ La méthode la plus directe est d'utiliser un outil spécialisé pour forger ces
 En uploadant l'un des fichiers générés par cet outil sur le portail, le système validera la vérification d'intégrité MD5 tout en reconnaissant que le fichier est un "nouveau" fichier via son SHA-256.
 
 **Flag:** `HTS{H4sh_M1r4g3_D3t3ct3d}`
+ 

@@ -7,3 +7,4 @@ Nous devons désactiver rapidement l'IA centrale LUCID en répondant à des déf
 3. **Automatisation et validation** : Nous développons un script de résolution en Python (en utilisant le module `socket` ou la bibliothèque `pwntools`) pour décoder à la volée les flux reçus, extraire le texte à hacher, calculer instantanément son MD5, et renvoyer la réponse pour valider les étapes successives et obtenir le flag de désactivation.
 
 **FLAG** : `HTS{LUCID_OFFLINE_SYSTEM_FREE}`
+ 

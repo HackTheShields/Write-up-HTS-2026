@@ -18,3 +18,4 @@ On uploade cette image PNG modifiée. Le filtre PIL-9000 vérifiera qu'il s'agit
 Lorsqu'on consulte notre mémo via `/view`, le serveur extrait et affiche les métadonnées de l'image dans son rendu. Si ce rendu utilise un moteur de template vulnérable, notre payload `{{ config }}` sera évalué, révélant ainsi les variables d'environnement ou la configuration du serveur où se trouve le flag !
 
 **Flag:** `HTS{N0T_JUST_4N_1M4G3}`
+ 

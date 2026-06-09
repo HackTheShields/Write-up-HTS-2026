@@ -16,3 +16,4 @@ Mathématiquement, cela équivaut à `M^(a*e1 + b*e2) mod N`, ce qui donne exact
 Un petit script Python combinant l'algorithme d'Euclide étendu et des exponentiations modulaires permet d'appliquer la formule. Le message déchiffré révèlera directement le flag.
 
 **Flag:** `HTS{S4M3_M0DULUS_TW1C3_TH3_FUN}`
+ 

@@ -7,3 +7,4 @@ Nous avons analysé l'image disque `blackbox_evil.img` du drone Orion.
 3. **Déchiffrement** : Le flag de chiffrement étant activé (`0x01`), nous déchiffrons les données en appliquant un XOR cyclique à l'aide de la clé dérivée de l'offset du fichier encodé sur 32-bits en Little Endian.
 
 **FLAG** : `HTS{AI_C4nt_D3bug_Br0k3n_H3ad3rs}`
+ 

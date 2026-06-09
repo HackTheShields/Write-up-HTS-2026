@@ -10,3 +10,4 @@ Nous avons analysé le Core Dump `orion_agent.core`.
 4. **Déchiffrement RC4** : Nous localisons le segment Heap dans le Core Dump, ignorons les 128 octets d'en-tête `"HEAP_DUMP_ORION_AGENT"` et appliquons le déchiffrement RC4 avec la clé dérivée pour révéler le flag.
 
 **FLAG** : `HTS{qui_a_eteint_mon_elfe_de_maison}`
+ 

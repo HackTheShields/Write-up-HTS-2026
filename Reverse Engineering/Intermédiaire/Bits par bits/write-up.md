@@ -7,3 +7,4 @@ Nous avons analysé l'exécutable `sentry_boot`.
 3. **Restitution visuelle** : Nous chargeons le fichier dump dans GIMP en tant que données brutes (800x600, RGBA 32-bit) pour lire le flag.
 
 **FLAG** : `HTS{BITS_VS_BYTES}`
+ 

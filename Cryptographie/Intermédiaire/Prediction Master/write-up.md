@@ -15,3 +15,4 @@ Cet algorithme n'est pas "cryptographiquement sécurisé". Son état interne est
 En soumettant cette prédiction parfaite au serveur, on obtient le flag.
 
 **Flag:** `HTS{R4nD0m_1s_Pr3d1ct1ble}`
+ 

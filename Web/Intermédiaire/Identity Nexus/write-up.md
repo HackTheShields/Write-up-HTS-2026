@@ -15,3 +15,4 @@ Le site génère instantanément notre nouveau token forgé avec la signature va
 On recharge la page, le système nous reconnaît en tant qu'admin et affiche le flag.
 
 **Flag:** `HTS{JwT_W34k_K3ys_Cr4ck_E4s1ly}`
+ 

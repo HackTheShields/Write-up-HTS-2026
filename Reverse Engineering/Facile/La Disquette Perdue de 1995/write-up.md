@@ -7,3 +7,4 @@ Nous avons analysé l'exécutable MS-DOS `keycheck.com`.
 3. **Déchiffrement** : Nous appliquons un XOR entre les octets chiffrés à l'offset 291 et cette signature de texte clair connu (39 octets) afin de retrouver la clé originale.
 
 **FLAG** : `HTS{retour_vers_le_futur_en_seize_bits}`
+ 

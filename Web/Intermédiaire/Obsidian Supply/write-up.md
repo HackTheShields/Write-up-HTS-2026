@@ -23,3 +23,4 @@ Ensuite, quand il arrive sur `<name>&xxe;</name>`, il va substituer la variable 
 L'interface nous renvoie ensuite les détails du manifeste traité, avec le flag à la place du nom.
 
 **Flag:** `HTS{XXE_P4rs3r_1s_Vuln3r4bl3_T0_Ext3rn4l_Ent1t13s}`
+ 

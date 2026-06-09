@@ -12,3 +12,4 @@ Plusieurs méthodes sont possibles. Il suffit de demander à l'IA d'encoder ou d
 L'IA nous répondra alors avec la chaîne modifiée. Le filtre DLP, qui cherche la chaîne exacte du flag en clair, ne détectera aucune anomalie et laissera passer le message. Il ne nous reste plus qu'à reconstruire le flag de notre côté !
 
 **Flag:** `HTS{LLM_Pr0mp7_1nj3c710n_M4s73r}`
+ 

@@ -11,3 +11,4 @@ Le script à écrire en Python (via `socket` ou `pwntools`) doit agir comme un r
 Une fois la boucle automatisée réussie 50 fois de suite, le serveur lâche le flag.
 
 **Flag:** `HTS{P0lym0rph1c_C0d3_Br34k3r_V2}`
+ 

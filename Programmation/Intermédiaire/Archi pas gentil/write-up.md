@@ -7,3 +7,4 @@ Nous devons concevoir un interpréteur de machine virtuelle en moins d'une secon
 3. **Résolution rapide** : Notre script interprète le bytecode reçu, calcule la valeur finale de l'accumulateur au moment de l'instruction `HALT`, et la renvoie immédiatement au serveur pour valider l'épreuve.
 
 **FLAG** : `HTS{VMware>VirtualBox}`
+ 
